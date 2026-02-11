@@ -1,7 +1,7 @@
 # 📜 Nicolás Jara — Certifications Portfolio
 
 ![Python](https://img.shields.io/badge/Python-Certified-blue?logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills-yellow?logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-yellow?logo=googlecloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Learning-green?logo=microsoftsqlserver&logoColor=white)
 ![Engineering](https://img.shields.io/badge/Engineering-Business_Mindset-orange)
 ![Continuous Learning](https://img.shields.io/badge/Mindset-Continuous_Learning-brightgreen)
@@ -27,32 +27,45 @@ to build practical and scalable technology solutions.
 
 ### Python Essentials 1 — Cisco Networking Academy
 
-<img width="200" height="200" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/997faab4-dd5e-43a0-bb4c-ae01804d91cd" />
-
+<img width="200" src="https://github.com/user-attachments/assets/997faab4-dd5e-43a0-bb4c-ae01804d91cd" />
 
 **Skills gained:**
+
 - Python fundamentals  
 - Data structures and functions  
 - Debugging and scripting basics  
 - Foundation for automation and backend development  
 
-📄 Certificate → [python-essentials-cisco.pdf.pdf](https://github.com/user-attachments/files/25221375/python-essentials-cisco.pdf.pdf)
-
+📄 Certificate →  
+https://github.com/user-attachments/files/25221375/python-essentials-cisco.pdf.pdf
 
 ---
 
 ## ☁️ Cloud Computing Certifications
 
-### Google Cloud Computing Foundations Certificate
+### Google Cloud Computing Foundations Certificate  
+**Issuer:** Google Cloud  
+**Issued:** July 2025  
+**Credential ID:** d68aa9d9-34ec-49b3-935b-26d22c917c87  
 
-![Google Cloud](./badges/google-cloud-foundations.png)
+<a href="https://www.credly.com/earner/earned/badge/d68aa9d9-34ec-49b3-935b-26d22c917c87">
+  <img width="200" src="https://github.com/user-attachments/assets/309369b0-d45d-4fdd-b7b6-e13a456539ba" />
+</a>
 
-Core topics:
-- Cloud infrastructure basics  
-- Services overview  
-- Deployment fundamentals  
+**Key topics covered:**
 
-📄 Certificate → `./certificates/google-cloud-foundations.pdf`
+- Cloud infrastructure fundamentals  
+- BigQuery and data tools overview  
+- Cloud storage and compute services  
+- Identity and Access Management (IAM)  
+- Network security basics  
+- APIs and application development environments  
+- Machine Learning environment preparation  
+
+🔎 Click the badge above to verify the credential on Credly.
+
+👉 Full profile:  
+https://www.credly.com/users/nicolas-emilio-tevai-jara-chamorro
 
 ---
 
@@ -82,15 +95,17 @@ Core topics:
 
 ### Microsoft Learn
 
-#### Introduction to Transact-SQL
-#### Introduction to Programming with Transact-SQL
+#### Introduction to Transact-SQL  
+#### Introduction to Programming with Transact-SQL  
 
-Skills:
+**Skills:**
+
 - SQL querying fundamentals  
 - Data manipulation  
 - Database concepts  
 
 📄 Certificates:
+
 - `./certificates/transact-sql-intro.pdf`
 - `./certificates/programming-transact-sql.pdf`
 
@@ -100,7 +115,7 @@ Skills:
 
 ### Excel — Santander Open Academy
 
-Skills developed:
+**Skills developed:**
 
 - Data organization  
 - Spreadsheet analysis  
