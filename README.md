@@ -87,7 +87,11 @@ https://www.credly.com/users/nicolas-emilio-tevai-jara-chamorro
 - Cloud dev setup
 - Deployment basics
 
-(Images available in `/badges` folder)
+<img width="150" height="150" alt="implement-load-balancing-on-compute-engine-skill-ba" src="https://github.com/user-attachments/assets/234f8efd-eccd-4e70-9331-a9e7a3b8025c" />
+<img width="150" height="150" alt="prepare-data-for-ml-apis-on-google-cloud-skill-badg" src="https://github.com/user-attachments/assets/ecff9b38-f52a-48e7-9cda-73af6294f144" />
+<img width="150" height="150" alt="set-up-an-app-dev-environment-on-google-cloud-skill" src="https://github.com/user-attachments/assets/4cdf11df-fde4-49f5-8e6b-7945b6835cf1" />
+<img width="150" height="150" alt="build-a-secure-google-cloud-network-skill-badge" src="https://github.com/user-attachments/assets/0d1a4c4b-5167-4942-b3a8-e4762d26ae12" />
+
 
 ---
 
@@ -106,8 +110,8 @@ https://www.credly.com/users/nicolas-emilio-tevai-jara-chamorro
 
 📄 Certificates:
 
-- `./certificates/transact-sql-intro.pdf`
-- `./certificates/programming-transact-sql.pdf`
+[transact-sql-introduction.pdf](https://github.com/user-attachments/files/25225891/transact-sql-introduction.pdf)
+[transact-sql-programation -introduction.pdf](https://github.com/user-attachments/files/25225893/transact-sql-programation.-introduction.pdf)
 
 ---
 
@@ -121,7 +125,8 @@ https://www.credly.com/users/nicolas-emilio-tevai-jara-chamorro
 - Spreadsheet analysis  
 - Business productivity tools  
 
-📄 Certificate → `./certificates/excel-santander.pdf`
+📄 Certificate → [excel - santander.pdf](https://github.com/user-attachments/files/25225900/excel.-.santander.pdf)
+
 
 ---
 
